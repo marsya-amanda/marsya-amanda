@@ -1,4 +1,4 @@
-## Hi, I’m Marsya / Mars
+## Hi, I'm Marsya :)
 
 Rising 3rd year university student studying **Computer Science + Financial Mathematics & Statistics**.
 
