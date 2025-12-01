@@ -37,7 +37,7 @@ Currently focused on building strong foundations across **systems, data, and mob
 
 ### Currently
 - Actively seeking **Software / Data / Platform Engineering Internships**
-- (Resume available upon request)[marsyaamanda.pr@gmail.com]
+- [Resume available upon request](marsyaamanda.pr@gmail.com)
 
 ---
 
