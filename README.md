@@ -1,8 +1,8 @@
 ## Hi, I'm Marsya :)
 
-Rising 3rd year university student studying **Computer Science + Financial Mathematics & Statistics**.
+Welcome to my personal github! 
 
-Currently focused on building strong foundations across **systems, data, and mobile development**, with applied projects alongside academic work.
+I'm a rising 3rd year university student studying **Computer Science + Financial Mathematics & Statistics**. Currently focused on building strong foundations across **systems, data, and mobile development**, with applied projects alongside academic work.
 
 ---
 
@@ -10,7 +10,7 @@ Currently focused on building strong foundations across **systems, data, and mob
 - Self-learning: **React Native + Expo (mobile dev)**, **Logic Programming (Prolog-style knowledge bases)**, **Databases & data modelling**
 - Main project: GRUBBO Mobile App [(repo)](https://github.com/marsya-amanda/grubbo-app)
 - Side projects:
-  - **Reddit Analytics Dashboard** (NLP + time-series signals)
+  - **Reddit Analytics Dashboard** (time-series signals)
   - **Zetamac CLI** (speed math trainer in terminal)
   - .. and whatever I find I can code! Have previously done **transcript parsers** for my anthropology classes before.
 
