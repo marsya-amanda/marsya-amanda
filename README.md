@@ -8,9 +8,11 @@ I'm a rising 3rd year university student studying **Computer Science + Financial
 
 **Working with**
 - Mobile: React Native, Expo
-- Web: Vue, REST APIs
+- Web: React, Vue, REST APIs, ExpressJS
 - Data: Pandas, NumPy, scikit-learn, R
+- Cloud: AWS Amplify, EC2
 - Logic: Prolog
+- Languages: Typescript, Javascript, Python, C/C++
 
 ---
 
